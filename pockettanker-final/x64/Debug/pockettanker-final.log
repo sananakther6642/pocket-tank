@@ -1,0 +1,122 @@
+﻿  pockettanker-final.cpp
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(455,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(563,27): warning C4101: 'j': unreferenced local variable
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(641,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(647,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(648,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(649,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(688,35): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(710,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(715,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(720,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(725,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(753,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(754,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(757,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(761,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(762,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(765,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(779,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(782,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(826,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(826,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(827,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(827,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(828,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(828,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(849,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(852,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(995,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1013,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1024,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1024,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1032,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1032,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1100,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1113,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1118,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1140,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1141,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1142,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1142,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1144,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1145,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1146,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1146,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1156,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1156,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1156,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1156,32): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1178,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1194,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1195,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1196,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1197,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1200,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1226,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1227,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1230,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1282,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1296,30): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1296,56): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1302,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1344,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1344,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1344,32): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1345,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1345,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1345,32): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1346,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1346,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1346,32): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1349,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1449,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1499,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1506,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1585,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1603,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1653,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1694,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1738,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\sanan\source\repos\pockettanker-final\pockettanker-final\pockettanker-final.cpp(1819,10): warning C4101: 's': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'
